@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm D Tejas
 
-### 💻 Java Backend Developer | Computer Science Undergraduate
+###  Java Backend Developer | Computer Science Undergraduate
 
 Welcome to my GitHub profile! I'm passionate about building scalable backend applications, exploring distributed systems, and solving real-world problems through code.
 
